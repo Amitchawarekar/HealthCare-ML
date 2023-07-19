@@ -49,7 +49,7 @@ Random Forest works very well here!!
  Here I chose Random Forest Algorithm as it has higher accuracy.
 
 ## Run Locally 
-Run this Following Commands to run this app locally on your machine.
+Run this Following Commands in Anaconda Propmt to run this app locally on your machine.
 
 ```
 conda create -n health python=3.9 -y
