@@ -48,6 +48,22 @@ Random Forest works very well here!!
 
  Here I chose Random Forest Algorithm as it has higher accuracy.
 
+## Run Locally 
+Run this Following Commands to run this app locally on your machine.
+
+```
+conda create -n health python=3.9 -y
+```
+```
+conda activate health
+```
+```
+pip install opencv-python numpy tensorflow scikit-learn imutils flask xgboost
+```
+```
+flask run
+```
+
 ## Output Screenshots
 - Main Page
 ![Screenshot (170)](https://github.com/Amitchawarekar/HealthCare-ML/assets/54398300/a4eaf0f6-49a6-439e-b230-bd1f3f51c628)
